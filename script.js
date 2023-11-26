@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "J'ai hâte d'être avec toi, je t'aime <3";
+  question.innerHTML = "J'ai hâte d'être avec toi, je t'aime beaucoup <3";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
